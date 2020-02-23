@@ -1,6 +1,6 @@
 Firstly clone repo and run
 
-### `npm install'
+### `npm install`
 
 In the project directory, you can run:
 
@@ -12,6 +12,6 @@ This starts the react application.
 
 then:
 
-### 'npm electron-start'
+### `npm electron-start`
 
 This renders the react application in the electron window
